@@ -1,0 +1,86 @@
+{
+  "0": {
+    "Region Name": "Closet Storage Area",
+    "Description": "This region appears to serve as a multi-functional closet and storage area, blending wardrobe space, general household storage, and some elements of kitchen overflow. The area includes multiple shelves and cabinets filled with neatly organized items such as plates, bowls, containers, and personal care products. Clothes including jackets, plaid shirts, and blue garments are hung on wooden hangers and rods, indicating the space also serves wardrobe purposes. Several storage bins, some filled with kitchenware like lids and dishes, are tucked into shelving units or cabinets. Electronic devices and headphones are placed among these storage areas, connected to visible power sources. The environment combines clothing, kitchen utility items, and hygiene products, suggesting this space is used for overflow and organized storage of diverse household items.",
+    "Relationships": [
+      "Shelves are positioned above cabinets and beside wardrobe doors.",
+      "Jackets and garments hang on rods or hooks within the closet.",
+      "Storage bins are placed under hanging clothes and contain kitchenware.",
+      "Lids and containers are inside blue storage bins or placed on shelves.",
+      "Personal care products are organized on shelves near the wardrobe.",
+      "Wooden hangers are suspended from closet rods above garments.",
+      "Electronics are placed on shelves next to dishes and books."
+    ]
+  },
+  "1": {
+    "Region Name": "Study Area",
+    "Description": "The study area is a multifunctional workspace filled with desks, chairs, shelves, and various study and utility items. Multiple white desks are cluttered with notebooks, calendars, smartphones, cables, water bottles, and fans, indicating an active work environment. Office chairs are positioned in front of the desks, and several trash bins are placed underneath or nearby. Storage units and shelving hold clothing items, books, bags, and electronic devices. White curtains hang in front of radiators and windows, contributing to the room’s privacy and lighting control. The area is illuminated by modern ceiling light fixtures and desk lamps, enhancing its usability for reading and working. The overall space is organized, combining personal comfort elements like rugs and jackets with tools for productivity.",
+    "Relationships": [
+      "Calendars, notebooks, and mice are placed on white desks.",
+      "Office chairs are positioned in front of desks.",
+      "Trash bins are located under or next to desks.",
+      "Fans are placed on or near desks for workspace cooling.",
+      "Desk lamps are positioned on desks near calendars or books.",
+      "Shelves contain books, bags, bottles, and folded clothing.",
+      "White curtains hang in front of windows and radiators.",
+      "Suitcases and containers are placed beside or under desks.",
+      "Shelving units are adjacent to chairs or storage bins.",
+      "Cables and power adapters lie on or around desk surfaces.",
+      "Radiators are located beneath windows and next to curtains.",
+      "Ceiling lights are positioned above the study space."
+    ]
+  },
+  "2": {
+    "Region Name": "Bedroom",
+    "Description": "This region appears to be a cozy and multi-functional bedroom, primarily used for sleeping, resting, and light personal activities. It contains multiple beds covered with blue and white patterned bedspreads, often paired with pink or gray blankets with leaf or camouflage motifs. The beds are complemented by a variety of pillows in matching colors. Around the beds are white shelves and cabinets for storage, holding items like books, lamps, and electronics. A desk and chair suggest the space may also serve as a study area. Several decorative and functional rugs of various colors and stripes are laid across the tiled or wooden floor. Additional items such as a mirror on a dresser, a wall-mounted TV, a microwave, and containers indicate some light living or studio functionality. Personal items including laptops, clothing, and blankets are casually spread across beds, reinforcing the room’s private, lived-in feel.",
+    "Relationships": [
+      "Blue and white beds are placed next to white shelves, cabinets, and nightstands.",
+      "Pink blankets with leaf or camouflage patterns are placed on top of the beds.",
+      "Laptops are positioned on beds next to white and blue pillows.",
+      "White cabinets are located in front of microwaves and beside beds.",
+      "A mirror is placed above a dresser beside the bed.",
+      "Blue and gray striped rugs lie adjacent to white tables and near shelves with dishes.",
+      "Shelves and wall-mounted TV are situated above or beside the beds.",
+      "Pink lamps sit on desks or shelves near beds and are connected to power sources.",
+      "Microwave ovens are placed on white shelves next to blue containers.",
+      "Gray, beige, and striped rugs are positioned on the floor near beds and stairs.",
+      "A white desk is positioned next to a bed and in front of shelves.",
+      "Shelves contain drawers with boxes and electrical connections.",
+      "Various clothing items are casually placed on beds, partially covered by blankets."
+    ]
+  },
+  "3": {
+    "Region Name": "Kitchen",
+    "Description": "This region is a fully functional kitchen, designed for cooking, food preparation, and light dining. The space features multiple stainless steel sinks and modern faucets integrated into white or dark countertops. These countertops are filled with everyday kitchen essentials including cutting boards, bottles, condiments, jars, containers, utensils, and dish soap. Above the counters, numerous cabinet doors—some beige or white, some with lighted panels—provide overhead storage. Several wooden or metal chairs are placed adjacent to counters and tables, suggesting seating arrangements for casual meals. The room also includes induction cooktops and stovetops with pots and kettles, indicating active cooking use. Multiple lighting elements, including wall-mounted and recessed fixtures, provide ample illumination. Although primarily a kitchen, the presence of shoe racks, sneakers, mats, and adjacent cabinets hints at an open-plan layout or a nearby entrance zone blending utility with function.",
+    "Relationships": [
+      "Stainless steel sinks are located below countertops and next to faucets, pots, and bottles of dish soap.",
+      "Cutting boards are placed on countertops above or beside sinks and adjacent to utensil holders.",
+      "Bottles, containers, and spice jars are clustered together on countertops near cutting boards and soap dispensers.",
+      "Wooden and metal chairs are positioned next to kitchen counters and dining tables.",
+      "Wall-mounted and recessed light fixtures are placed above sinks, counters, and mirrored surfaces.",
+      "White and beige cabinet doors are mounted above countertops and positioned near light fixtures.",
+      "Induction cooktops with pots are placed beside sinks and near shelves storing utensils and sauces.",
+      "Electrical outlets are mounted above sinks or close to countertops with cleaning supplies.",
+      "Shoes, sneakers, and black mats are placed near cabinets or under shelves, suggesting an adjacent utility or entry area.",
+      "Paper towels and jars are located on countertops next to sinks and cooking stations."
+    ]
+  },
+  "4": {
+    "Region Name": "Bathroom",
+    "Description": "This region appears to be a functional and well-equipped bathroom with some adjacent utility or storage features. It includes several white toilets with modern designs, many accompanied by white sinks mounted on walls or countertops, often paired with silver faucets and soap dispensers. Above the sinks and counters are glass shelf units containing personal care and cleaning items such as Nivea Men body wash, Elvital hair products, toothbrush holders, Ariel laundry detergent, and yellow spray bottles. Multiple wall panels and light fixtures, including recessed lighting and rectangular ceiling lamps, provide visibility and modern aesthetics. There are also references to white cabinet doors, bathroom vanities, and a bathtub, reinforcing the space’s primary use. At the periphery, there are some elements of adjacent storage or closet space—such as closet doors, clothing, a blue storage bin, and dishes—hinting at a multipurpose or shared-area layout connecting bathroom and laundry/storage functions.",
+    "Relationships": [
+      "White toilets are positioned next to white sinks and soap dispensers.",
+      "Sinks are mounted above or beside toilets and placed on countertops or attached to walls.",
+      "Faucets are located above sinks and next to soap dispensers.",
+      "Glass shelf units are mounted on walls above sinks or countertops and hold personal care products.",
+      "Spray bottles and cleaning agents are placed on or near glass shelves beside other toiletry items.",
+      "Nivea and Elvital products are grouped on bathroom shelves next to toothbrush holders and sponges.",
+      "Cabinet doors are located above or beside sinks and near green or beige walls.",
+      "Light fixtures are mounted on ceilings or walls above sinks and mirrors.",
+      "A white tiled floor is located near toilets, mats, and closet doors.",
+      "Closet doors, blue bins, and clothing are placed adjacent to or inside a storage space beside the bathroom.",
+      "Door handles and switches are positioned near light fixtures and entryways within the room."
+    ]
+  },
+  "scene_level": "The apartment is efficiently organized with dedicated areas for storage, work, living, and hygiene. It includes a closet with shelving for kitchenware and clothing, a study with desks and shelves, and a cozy bedroom with beds, storage, and personal items. The modern kitchen features sinks, cooktops, and cabinets, while the bathroom includes toilets, sinks, and shelving for toiletries and cleaning supplies. The layout supports practical, comfortable living."
+}
