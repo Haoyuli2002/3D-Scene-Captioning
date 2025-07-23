@@ -1,0 +1,19 @@
+# folder where the data is downloaded
+data_root: /home/vlm_caption/VLM_Caption/MaskClustering-main/data/scannetpp/
+
+# Set True to render depth for iphone frames
+render_iphone: True
+# Set True to render depth for dslr frames
+render_dslr: False
+
+splits: [sample_scene]
+
+# Specify scene ids if you want to render depth for specific scenes
+scene_ids: [47eb87b5bb]
+
+# The near and far planes for the depth camera during rendering in meters.
+near: 0.05
+far: 20.0
+
+# Output directory for the rendered depth images. If not given, the output will be saved to data folder in data_root
+output_dir: /home/vlm_caption/VLM_Caption/MaskClustering-main/data/scannetpp/data
